@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Profile views](https://komarev.com/ghpvc/?username=zulfahmisadrah)
+
+![Zulfahmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=zulfahmisadrah&count_private=true&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zulfahmisadrah&layout=compact&theme=dark)
